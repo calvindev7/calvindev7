@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm CalvinDev, a skilled software developer with e
 Here are some of the key skills that I possess:
 
 - API: SOAP and REST ![API](https://cdn-icons-png.flaticon.com/24/4180/4180439.png)
-- MVC: Hardware architecture
 - JavaScript ![JavaScript](https://cdn-icons-png.flaticon.com/24/5968/5968292.png)
 - jQuery ![jQuery](https://icons-for-free.com/iconfiles/png/24/bxl+jquery-1325051935778003093.png)
 - Git ![Git](https://cdn-icons-png.flaticon.com/24/4494/4494748.png)
