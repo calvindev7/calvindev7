@@ -10,7 +10,7 @@ Here are some of the key skills that I possess:
 
 - API: SOAP and REST ![API](https://cdn-icons-png.flaticon.com/24/4180/4180439.png)
 - JavaScript ![JavaScript](https://cdn-icons-png.flaticon.com/24/5968/5968292.png)
-- jQuery ![jQuery](https://icons-for-free.com/iconfiles/png/24/bxl+jquery-1325051935778003093.png)
+- jQuery ![jQuery](https://e7.pngegg.com/pngimages/662/163/png-clipart-jquery-logo-web-development-jquery-ui-javascript-computer-icons-jqlogo-emblem-label-thumbnail.png).
 - Git ![Git](https://cdn-icons-png.flaticon.com/24/4494/4494748.png)
 - Azure DevOps ![Azure DevOps](https://cdn-icons-png.flaticon.com/24/873/873107.png)
 - Agile Programming: SCRUM methodology ![Agile](https://cdn-icons-png.flaticon.com/24/6867/6867246.png)
